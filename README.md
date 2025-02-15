@@ -20,3 +20,9 @@ To save the data entered in the form, I am using local storage and also connecte
 The data is then saved in a JSON file.
 
 In future, we can connect a database and then save the data in the database.
+
+There is a login and password already created to test the features of the App.
+Please use email - wasif1@gmail.com
+           password - Neot!a12345
+
+Please reach out if you have any further questions.
